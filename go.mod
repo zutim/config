@@ -1,4 +1,4 @@
-module github.com/config
+module github.com/zutim/config
 
 go 1.18
 
