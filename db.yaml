@@ -1,0 +1,10 @@
+mysql:
+  dsn: 127.0.0.1:2222
+  maxIdle: 10
+  maxOpen: 20
+  maxLife: 200
+
+redis: 127.0.0.1:30500
+
+
+
